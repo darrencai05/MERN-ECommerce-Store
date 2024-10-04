@@ -1,5 +1,7 @@
 # MERN E-Commerce Store Project
 
+![screenshot](https://github.com/darrencai05/MERN-ECommerce-Store/blob/master/client/src/demos.png)
+
 ## Overview
 
 This project is a fully functional e-commerce application built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to browse products, add them to their cart, and make purchases. The application features user authentication, product management, and a responsive design.
